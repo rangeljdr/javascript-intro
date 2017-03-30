@@ -5,7 +5,12 @@
 
 // 0. Objetos
 
+var atleta1 = {
+  name: 'juan'
+  height: 5.11
+  sport: 'swimming'
 
+}
 
 
 // 1. Añadir propiedades a objetos
